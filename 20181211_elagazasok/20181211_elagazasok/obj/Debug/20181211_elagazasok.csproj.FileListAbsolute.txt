@@ -1,0 +1,6 @@
+Z:\programozás\20181211_elagazasok\20181211_elagazasok\bin\Debug\20181211_elagazasok.exe.config
+Z:\programozás\20181211_elagazasok\20181211_elagazasok\obj\Debug\20181211_elagazasok.csprojResolveAssemblyReference.cache
+Z:\programozás\20181211_elagazasok\20181211_elagazasok\bin\Debug\20181211_elagazasok.exe
+Z:\programozás\20181211_elagazasok\20181211_elagazasok\bin\Debug\20181211_elagazasok.pdb
+Z:\programozás\20181211_elagazasok\20181211_elagazasok\obj\Debug\20181211_elagazasok.exe
+Z:\programozás\20181211_elagazasok\20181211_elagazasok\obj\Debug\20181211_elagazasok.pdb

@@ -1,0 +1,6 @@
+Z:\programozás\20181204-elágozások\20181204-elágozások\bin\Debug\20181204-elágozások.exe.config
+Z:\programozás\20181204-elágozások\20181204-elágozások\obj\Debug\20181204-elágozások.csprojResolveAssemblyReference.cache
+Z:\programozás\20181204-elágozások\20181204-elágozások\bin\Debug\20181204-elágozások.exe
+Z:\programozás\20181204-elágozások\20181204-elágozások\bin\Debug\20181204-elágozások.pdb
+Z:\programozás\20181204-elágozások\20181204-elágozások\obj\Debug\20181204-elágozások.exe
+Z:\programozás\20181204-elágozások\20181204-elágozások\obj\Debug\20181204-elágozások.pdb

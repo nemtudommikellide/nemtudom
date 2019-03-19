@@ -1,0 +1,6 @@
+Z:\programozás\20181113_valtozok\20181113_valtozok\bin\Debug\20181113_valtozok.exe.config
+Z:\programozás\20181113_valtozok\20181113_valtozok\obj\Debug\20181113_valtozok.csprojResolveAssemblyReference.cache
+Z:\programozás\20181113_valtozok\20181113_valtozok\bin\Debug\20181113_valtozok.exe
+Z:\programozás\20181113_valtozok\20181113_valtozok\bin\Debug\20181113_valtozok.pdb
+Z:\programozás\20181113_valtozok\20181113_valtozok\obj\Debug\20181113_valtozok.exe
+Z:\programozás\20181113_valtozok\20181113_valtozok\obj\Debug\20181113_valtozok.pdb

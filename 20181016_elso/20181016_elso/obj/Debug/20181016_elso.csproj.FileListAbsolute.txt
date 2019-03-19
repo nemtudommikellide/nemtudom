@@ -1,0 +1,6 @@
+Z:\programozás\20181016_elso\20181016_elso\bin\Debug\20181016_elso.exe.config
+Z:\programozás\20181016_elso\20181016_elso\bin\Debug\20181016_elso.exe
+Z:\programozás\20181016_elso\20181016_elso\bin\Debug\20181016_elso.pdb
+Z:\programozás\20181016_elso\20181016_elso\obj\Debug\20181016_elso.csprojResolveAssemblyReference.cache
+Z:\programozás\20181016_elso\20181016_elso\obj\Debug\20181016_elso.exe
+Z:\programozás\20181016_elso\20181016_elso\obj\Debug\20181016_elso.pdb

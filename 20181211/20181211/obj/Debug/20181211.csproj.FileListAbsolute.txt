@@ -1,0 +1,9 @@
+Z:\programozás\20181211\20181211\bin\Debug\20181211.exe.config
+Z:\programozás\20181211\20181211\obj\Debug\20181211.csprojResolveAssemblyReference.cache
+Z:\programozás\20181211\20181211\obj\Debug\_20181211.elso.resources
+Z:\programozás\20181211\20181211\obj\Debug\_20181211.Properties.Resources.resources
+Z:\programozás\20181211\20181211\obj\Debug\20181211.csproj.GenerateResource.Cache
+Z:\programozás\20181211\20181211\bin\Debug\20181211.exe
+Z:\programozás\20181211\20181211\bin\Debug\20181211.pdb
+Z:\programozás\20181211\20181211\obj\Debug\20181211.exe
+Z:\programozás\20181211\20181211\obj\Debug\20181211.pdb
